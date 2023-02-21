@@ -6,3 +6,5 @@ It will look at all the trades for whatever league ID you give it, so if you wan
 Sleeper API Documentation: https://docs.sleeper.com/#introduction
 
 You'll need the league ID for your league. This can be found in the URL of your Sleeper league: https://sleeper.com/leagues/<this_number_right_here>/matchup. Or if you open the App and go to your league -> League tab -> Settings (the gear icon) -> General, and then scroll to the bottom.
+
+![](https://github.com/SleeperPy/SleeperTradesGraph/blob/main/SleeperTradeGraph.gif)
